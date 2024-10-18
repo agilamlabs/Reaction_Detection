@@ -1,7 +1,8 @@
-opencv-python-headless>=4.5.5
-fer
-streamlit
-Pillow
-numpy==1.19.5 
-matplotlib
+opencv-python==4.5.5.64
+opencv-python-headless==4.5.5.64
+fer==21.0.0
+streamlit==1.15.2
+Pillow==9.0.1
+numpy==1.19.5  
+matplotlib==3.5.1
 setuptools
