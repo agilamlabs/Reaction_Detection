@@ -2,5 +2,5 @@ opencv-python==4.5.5.64
 fer
 streamlit
 Pillow
-numpy
+numpy==1.19.5 
 matplotlib
