@@ -1,3 +1,11 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Jun 19 17:45:50 2024
+
+@author: gn
+"""
+
 import cv2
 from fer import FER
 import streamlit as st
@@ -10,7 +18,7 @@ st.title("Facial Emotion Detection")  # Title of the Streamlit app
 
 # Adding LinkedIn link and creator information
 st.markdown("""
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; background-color: black; padding: 5px; border-radius: 3px;">
     <span style="font-size: 18px; color: #2e8b57; font-weight: bold; margin-right: 10px;">Created by:</span>
     <a href="https://www.linkedin.com/in/gn-raavanan" target="_blank" style="text-decoration: none; display: flex; align-items: center;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 20px; height: 20px; margin-right: 5px;">
