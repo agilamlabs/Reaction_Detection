@@ -4,4 +4,4 @@ streamlit
 Pillow
 numpy==1.19.5 
 matplotlib
- -- upgrade pip
+setuptools
