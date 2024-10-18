@@ -1,8 +1,10 @@
 opencv-python==4.5.5.64
 opencv-python-headless==4.5.5.64
 fer==21.0.0
-streamlit==1.15.2
-Pillow==9.0.1
-numpy>=1.21.2 
-matplotlib==3.5.1
+streamlit
+Pillow
+numpy>=1.21.2
+matplotlib
+tensorflow==2.4.0
+keras==2.4.3
 setuptools>=45.0.0
