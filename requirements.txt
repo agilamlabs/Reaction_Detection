@@ -1,5 +1,5 @@
-opencv-python==4.5.5.64
-opencv-python-headless==4.5.5.64
+opencv-python>=4.5.5.64
+opencv-python-headless>=4.5.5.64
 fer>=21.0.0
 streamlit
 Pillow
