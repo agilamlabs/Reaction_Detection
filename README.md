@@ -26,7 +26,7 @@ This repository contains a simple web application that detects facial emotions f
 
 You can try a live demo of the application by uploading an image and seeing the detected emotions.
 
-[🖱️ Try the Demo Here](https://facial-reaction-detection.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit%20App-ff4b4b?style=flat&logo=streamlit)](https://facial-reaction-detection.streamlit.app/)
 
 ## 🛠️ Installation
 
