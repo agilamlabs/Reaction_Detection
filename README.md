@@ -94,15 +94,7 @@ This project uses the **FER** library for detecting emotions and the **MTCNN** m
 
 ## 🤝 Connect with Me
 
-- **💼 LinkedIn:** [Gokul Nath](https://www.linkedin.com/in/gn-raavanan)
-- **📹 YouTube:** [Agilam Labs](https://www.youtube.com/@agilamlabs)
+- [![YouTube](https://img.shields.io/badge/YouTube-Channel-red?style=flat&logo=youtube)](https://www.youtube.com/@agilamlabs)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gn-raavanan)
 
-### 👨‍💻 Created by
-
-<div style="display: flex; align-items: center; background-color: black; padding: 5px; border-radius: 3px;">
-    <span style="font-size: 18px; color: #2e8b57; font-weight: bold; margin-right: 10px;">Created by:</span>
-    <a href="https://www.linkedin.com/in/gn-raavanan" target="_blank" style="text-decoration: none; display: flex; align-items: center;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 20px; height: 20px; margin-right: 5px;">
-        <span style="font-size: 18px; font-weight: bold; color: #fff;">Gokul Nath</span>
-    </a>
-</div>
+## Thank You
